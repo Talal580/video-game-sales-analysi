@@ -32,7 +32,11 @@ This project analyzes video game sales data from 2010 to 2017. The goal is to cl
 - **Pie Charts** – National vs. global market share
 - **Line Chart** – Sales trends over years
 
+  ## 📸 Sample Visualization
+![National Sales by Region](video games photo 1.png)
+
+
+
 ##  How to Run This Project
 1. Clone the repository:
-   ```bash
 git clone https://github.com/Talal580/video-game-sales-analysi.git
