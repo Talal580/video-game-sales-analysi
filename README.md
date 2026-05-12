@@ -35,4 +35,4 @@ This project analyzes video game sales data from 2010 to 2017. The goal is to cl
 ##  How to Run This Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/video-game-sales-analysis.git
+git clone https://github.com/Talal580/video-game-sales-analysi.git
