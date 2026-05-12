@@ -33,7 +33,7 @@ This project analyzes video game sales data from 2010 to 2017. The goal is to cl
 - **Line Chart** – Sales trends over years
 
   ## 📸 Sample Visualization
-![National Sales by Region](video games photo 1.png)
+![National Sales by Region](https://github.com/Talal580/video-game-sales-analysi/blob/main/video%20games%20photo%201.png)
 
 
 
